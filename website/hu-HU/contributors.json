@@ -1,0 +1,14 @@
+{
+  "title": "Közreműködők",
+  "desc": "Ismerd meg azokat a csodálatos embereket, akik az Instafelt lehetővé tették",
+  "roles": {
+    "dev": "Fejlesztő",
+    "mod": "Moderátor",
+    "cre": "Készítő"
+  },
+  "titles": {
+    "team": "Csapat",
+    "translators": "Fordítók",
+    "special": "Külön köszönet"
+  }
+}
