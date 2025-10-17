@@ -1,0 +1,7 @@
+files:
+  - source: /app/strings_en-rUS.xml
+    translation: /app/strings_%android_code%.xml
+  - source: /website/en-EN/**
+    translation: /folder/%locale%/%original_file_name%
+  - source: /updater/strings_en-rUS.xml
+    translation: /updater/strings_%android_code%.xml
