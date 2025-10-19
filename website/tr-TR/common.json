@@ -1,29 +1,31 @@
 {
   "navbar": {
     "items": {
-      "backups": "Yedekler",
-      "flags": "Bayraklar",
-      "updater": "Güncelleyici",
-      "src_code": "Kaynak Kodu",
-      "download": "İndir",
-      "contributors": "Katılımcılar"
+      "backups": "Backups",
+      "flags": "Flags",
+      "updater": "Updater",
+      "src_code": "Source Code",
+      "download": "Download",
+      "contributors": "Contributors"
     },
-    "1": "Görünüm",
-    "2": "Aydınlık",
-    "3": "Karanlık",
-    "4": "Otomatik"
+    "1": "Appearance",
+    "2": "Light",
+    "3": "Dark",
+    "4": "Auto"
   },
   "footer": {
-    "1": "Topluluk geliştirmeleri sayesinde hızlı & güncel bir Instagram Alpha deneyimi!",
-    "2": "Instafel'in Meta ve Instagram ile hiçbir bağı yoktur",
-    "3": "mamiiblt tarafından ❤️ ile geliştirilmiştir",
-    "4": "Kaynaklar",
+    "1": "Provides fast & up-to-date Instagram Alpha experience with enhanced features and community-driven development",
+    "2": "Instafel has no any affiliation with Meta or Instagram",
+    "3": "Developed with ❤️ by mamiiblt",
+    "4": "Resources",
     "5": "Wiki",
-    "6": "Yedekler",
-    "7": "Linkler",
-    "8": "Güncelleyici",
-    "9": "İndir",
-    "10": "Kaynak Kodu",
-    "11": "Bayraklar"
+    "6": "Backups",
+    "7": "Links",
+    "8": "Updater",
+    "9": "Download",
+    "10": "Source Code",
+    "11": "Flags",
+    "12": "Contributors",
+    "13": "Translate"
   }
 }
