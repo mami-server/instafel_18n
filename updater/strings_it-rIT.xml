@@ -44,7 +44,7 @@
     <string name="please_allow_unrestiracted">Imposta la modalità restrizione della batteria dell\'app su modalità non limitata</string>
     <string name="dialog_title">Concedi Autorizzazione</string>
     <string name="dialog_desc">Instafel Updater necessita di notifica e autorizzazione root per funzionare normalmente.</string>
-    <string name="dialog_ok">Okay</string>
+    <string name="dialog_ok">Va bene</string>
     <string name="hour">ora</string>
     <string name="minute">minuto</string>
     <string name="upd_started">Updater avviato</string>
