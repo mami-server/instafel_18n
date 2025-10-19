@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Nav Bar -->
-    <string name="status">Status</string>
-    <string name="logs">Log</string>
+    <string name="status">Zustand</string>
+    <string name="logs">Ausgabe</string>
     <string name="settings">Einstellungen</string>
     <!-- Setup Updater -->
     <string name="setup_ifl">Updater einrichten</string>
@@ -17,8 +17,8 @@
     <string name="authorized">Autorisiert</string>
     <string name="not_installed">Shizuku nicht installiert</string>
     <string name="start_service">Shizuku ist nicht aktiv</string>
-    <string name="shizuku_status">Shizuku Status</string>
-    <string name="root_status">Root Status</string>
+    <string name="shizuku_status">Shizuku-Zustand</string>
+    <string name="root_status">Root-Zustand</string>
     <string name="selected_arch">Ausgewählte Architektur</string>
     <string name="selected_installation_type">Ausgewählter Installationstyp</string>
     <string name="battery_restriction">Akkubeschränkung</string>
@@ -28,7 +28,7 @@
     <string name="battery_dialog_msg">Damit Instafel Updater richtig funktioniert, darf der Batterie-Modus der Anwendung nicht eingeschränkt werden.</string>
     <string name="updater_status">Updater-Status</string>
     <string name="start">Start</string>
-    <string name="stop">Stop</string>
+    <string name="stop">Stoppen</string>
     <string name="permission_rejected">Berechtigung abgelehnt</string>
     <string name="perm_rejected_desc">Bitte autorisieren Sie Instafel Updater in der Shizuku App</string>
     <string name="please_start_shizuku">Bitte starten Sie Shizuku aus der App</string>
@@ -80,7 +80,7 @@
     <string name="instafel_website">Instafel Webseite</string>
     <string name="create_issue">Ticket erstellen</string>
     <string name="create_issue_s">Erstelle ein Problem auf GitHub für Feedback!</string>
-    <string name="app_version">App Version</string>
+    <string name="app_version">App-Version</string>
     <string name="app_version_s">Version v%1$s (%2$s)</string>
     <string name="language">Sprache</string>
     <string name="language_s">Sprache der App festlegen</string>
