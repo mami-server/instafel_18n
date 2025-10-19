@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nav Bar -->
+    <string name="status">狀態</string>
+    <string name="logs">日誌</string>
+    <string name="settings">設定</string>
+    <!-- Setup Updater -->
+    <string name="setup_ifl">設定更新器</string>
+    <string name="checker_arch">檢查器架構</string>
+    <string name="checker_itype">檢查器安裝類型</string>
+    <string name="unclone">非複製</string>
+    <string name="clone">複製</string>
+    <string name="cont">繼續</string>
+    <string name="warning">警告</string>
+    <string name="warning_desc">請選擇一個架構與安裝類型。</string>
+    <!-- Status Fragment -->
+    <string name="authorized">已授權</string>
+    <string name="not_installed">未安裝 Shizuku</string>
+    <string name="start_service">Shizuku 未啟動</string>
+    <string name="shizuku_status">Shizuku 狀態</string>
+    <string name="root_status">Root 狀態</string>
+    <string name="selected_arch">已選擇的架構</string>
+    <string name="selected_installation_type">已選擇的安裝類型</string>
+    <string name="battery_restriction">電池限制</string>
+    <string name="battery_restricted">限制</string>
+    <string name="battery_unrestricted">無限制</string>
+    <string name="battery_dialog_title">允許無限制模式</string>
+    <string name="battery_dialog_msg">為使 Instagel 更新器運作正常，應用程式的電池模式應被設置為「無限制」。</string>
+    <string name="updater_status">更新器狀態</string>
+    <string name="start">開始</string>
+    <string name="stop">停止</string>
+    <string name="permission_rejected">權限遭拒</string>
+    <string name="perm_rejected_desc">請於 Shizuku 應用程式中授權 Instafel 更新器</string>
+    <string name="please_start_shizuku">請從 Shizuku 應用程式中啟動它</string>
+    <string name="please_install_shizuku">請從 Play 商店中安裝 Shizuku</string>
+    <string name="please_give_permission">請於 Shizuku 中授權 Instafel 更新器</string>
+    <string name="running">運行 %1$s 模式中</string>
+    <string name="stopped">已停止</string>
+    <string name="unauthorized">未授權</string>
+    <string name="checking">檢查中......</string>
+    <string name="not_found">找不到 SU 二進制檔案</string>
+    <string name="please_allow_root">Root 訪問權限以被拒絕，請從管理器中允許。</string>
+    <string name="please_install_root">無法取得 Root 訪問</string>
+    <string name="please_allow_unrestiracted">請設置應用程式電池限制模式至無限制模式</string>
+    <string name="dialog_title">授權</string>
+    <string name="dialog_desc">Instafel 更新器需要通知與 Root 權限才能運作正常。</string>
+    <string name="dialog_ok">確定</string>
+    <string name="hour">小時</string>
+    <string name="minute">分鐘</string>
+    <string name="upd_started">更新起已開啟</string>
+    <string name="upd_stopped">更新器已停止</string>
+    <!-- Code Strings -->
+    <string name="runtime_log_cleared">運行日誌已清除。</string>
+    <string name="work_restarted">Updater is restarted</string>
+    <!-- Notification Strings -->
+    <string name="n1_downloading">Downloading Update</string>
+    <string name="n2_waiting">Waiting for update server</string>
+    <string name="n2_sub">Waiting for API connection...</string>
+    <string name="n3_installing">Installing Update</string>
+    <string name="n3_sub">Download complete, installing...</string>
+    <string name="n4_complete">Update Successfully Installed</string>
+    <string name="n4_sub">Instafel updated to v%1$s</string>
+    <string name="error">Error</string>
+    <!-- Setting Keys -->
+    <string name="cname_general">General</string>
+    <string name="cname_behavior">Behavior</string>
+    <string name="cname_about">About Updater</string>
+    <string name="checker_interval">Checker Interval</string>
+    <string name="checker_interval_s">Change checker interval</string>
+    <string name="itype">Installation Type</string>
+    <string name="itype_s">Change installation type</string>
+    <string name="send_notif">Send Notification</string>
+    <string name="send_notif_s">Updater sends a notification after updating Instafel</string>
+    <string name="use_mobile_data">Mobile Data</string>
+    <string name="use_mobile_data_s">Allows downloading updates with mobile data</string>
+    <string name="hour12_rule">12 Hour Rule</string>
+    <string name="hour12_rule_s">Allows you to install the update after released 12 hours</string>
+    <string name="source_code">Source Code</string>
+    <string name="source_code_s">Visit source code of Instafel</string>
+    <string name="instafel_website">Instafel Website</string>
+    <string name="create_issue">Create Issue</string>
+    <string name="create_issue_s">Create an issue on GitHub for feedback!</string>
+    <string name="app_version">App Version</string>
+    <string name="app_version_s">Version v%1$s (%2$s)</string>
+    <string name="language">Language</string>
+    <string name="language_s">Set the language of app</string>
+    <string name="developed_by">Developed with ❤️ by mamiiblt</string>
+    <string name="about_app">About</string>
+    <string name="crash_logs">Save Crash Logs</string>
+    <string name="crash_logs_s">Logger will write every crash to a daily log.</string>
+    <string name="disable_error">Disable Warning Notif.</string>
+    <string name="disable_error_s">Disables non critical error notifications</string>
+    <string name="updater_guide">Updater Guide</string>
+    <string name="updater_guide_s">Learn more things about updater</string>
+</resources>
