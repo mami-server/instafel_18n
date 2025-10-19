@@ -1,37 +1,37 @@
 {
   "not_found": {
-    "title": "Flag not found",
-    "description": "The flag you're looking for doesn't exist or has been removed.",
-    "go_back": "Go back"
+    "title": "العلامة غير موجودة",
+    "description": "العلامة المطلوبة غير موجودة أو أُزيلت.",
+    "go_back": "الرجوع"
   },
   "loading": {
-    "title": "Loading flag information",
-    "description": "Please wait while we fetch the details"
+    "title": "جارٍ تحميل معلومات العلم",
+    "description": "يرجى الانتظار في أثناء تحميل التفاصيل"
   },
   "badges": {
-    "removed": "Removed"
+    "removed": "تمت الإزالة"
   },
   "content": {
     "block_titles": {
-      "information": "Information",
-      "metaconf_options": "MetaConfig Options",
-      "screenshots": "Screenshots"
+      "information": "معلومات",
+      "metaconf_options": "خيارات إعدادات ميتا",
+      "screenshots": "لقطة شاشة"
     },
     "block_contents": {
       "info": {
-        "added_by": "Added by",
-        "last_edit": "Last Edit",
-        "added_in": "Added in",
-        "removed_in": "Removed in",
-        "unknown": "Unknown"
+        "added_by": "تمت الإضافة بواسطة",
+        "last_edit": "آخر تعديل",
+        "added_in": "تمت الإضافة في",
+        "removed_in": "تمت إزالته في",
+        "unknown": "مجهول"
       },
       "screenshot": {
-        "failed_load_img": "Failed to load image"
+        "failed_load_img": "تعذر تحميل الصورة"
       },
       "metaconf_options": {
-        "copy_to_clipboard": "Copy to clipboard",
-        "prop_name_copied": "Property name copied",
-        "prop_name_copied_desc": "Flag property name copied to clipboard"
+        "copy_to_clipboard": "نسخ إلى الحافظة",
+        "prop_name_copied": "تم نسخ اسم الخاصية",
+        "prop_name_copied_desc": "تم نسخ اسم خاصية العلم إلى الحافظة"
       }
     }
   }
