@@ -51,6 +51,45 @@
     <string name="upd_stopped">更新器已停止</string>
     <!-- Code Strings -->
     <string name="runtime_log_cleared">運行日誌已清除。</string>
+    <string name="work_restarted">Updater is restarted</string>
     <!-- Notification Strings -->
+    <string name="n1_downloading">Downloading Update</string>
+    <string name="n2_waiting">Waiting for update server</string>
+    <string name="n2_sub">Waiting for API connection...</string>
+    <string name="n3_installing">Installing Update</string>
+    <string name="n3_sub">Download complete, installing...</string>
+    <string name="n4_complete">Update Successfully Installed</string>
+    <string name="n4_sub">Instafel updated to v%1$s</string>
+    <string name="error">Error</string>
     <!-- Setting Keys -->
+    <string name="cname_general">General</string>
+    <string name="cname_behavior">Behavior</string>
+    <string name="cname_about">About Updater</string>
+    <string name="checker_interval">Checker Interval</string>
+    <string name="checker_interval_s">Change checker interval</string>
+    <string name="itype">Installation Type</string>
+    <string name="itype_s">Change installation type</string>
+    <string name="send_notif">Send Notification</string>
+    <string name="send_notif_s">Updater sends a notification after updating Instafel</string>
+    <string name="use_mobile_data">Mobile Data</string>
+    <string name="use_mobile_data_s">Allows downloading updates with mobile data</string>
+    <string name="hour12_rule">12 Hour Rule</string>
+    <string name="hour12_rule_s">Allows you to install the update after released 12 hours</string>
+    <string name="source_code">Source Code</string>
+    <string name="source_code_s">Visit source code of Instafel</string>
+    <string name="instafel_website">Instafel Website</string>
+    <string name="create_issue">Create Issue</string>
+    <string name="create_issue_s">Create an issue on GitHub for feedback!</string>
+    <string name="app_version">App Version</string>
+    <string name="app_version_s">Version v%1$s (%2$s)</string>
+    <string name="language">Language</string>
+    <string name="language_s">Set the language of app</string>
+    <string name="developed_by">Developed with ❤️ by mamiiblt</string>
+    <string name="about_app">About</string>
+    <string name="crash_logs">Save Crash Logs</string>
+    <string name="crash_logs_s">Logger will write every crash to a daily log.</string>
+    <string name="disable_error">Disable Warning Notif.</string>
+    <string name="disable_error_s">Disables non critical error notifications</string>
+    <string name="updater_guide">Updater Guide</string>
+    <string name="updater_guide_s">Learn more things about updater</string>
 </resources>
