@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Nav Bar -->
-    <string name="status">Status</string>
     <string name="logs">Registro</string>
     <string name="settings">Configurações</string>
     <!-- Setup Updater -->
     <string name="setup_ifl">Configure o Updater</string>
     <string name="checker_arch">Verificar Arquitetura</string>
     <string name="checker_itype">Verificar o Tipo de Instalação</string>
-    <string name="unclone">Unclone</string>
-    <string name="clone">Clone</string>
     <string name="cont">Continuar</string>
     <string name="warning">Atenção</string>
     <string name="warning_desc">Selecione uma arquitetura e tipo de instalação.</string>
