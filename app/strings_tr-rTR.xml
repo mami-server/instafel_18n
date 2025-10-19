@@ -148,7 +148,7 @@
     <string name="ifl_a11_18">v%1$s sürümüne %2$s tarihinde güncellendi</string>
     <string name="ifl_a11_19">Yapımcı Hakkında</string>
     <string name="ifl_a11_20">Yapımcı Adı</string>
-    <string name="ifl_a11_21">Error while fetching author about info</string>
+    <string name="ifl_a11_21">Sahip bilgisi sunucudan alınırken bir sorun oluştu</string>
     <string name="ifl_a11_22">Yedek dosyası indirilirken bir sorun oluştu</string>
     <string name="ifl_a11_23">Bu ayarı açmak için en az bir yedek dosyası kurmalısınız</string>
     <string name="ifl_a11_24">%1$s yedeği artık otomatik olarak güncellencek</string>
