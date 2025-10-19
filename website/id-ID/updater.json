@@ -1,50 +1,50 @@
 {
   "heroHeader": {
-    "title": "Instafel Updater",
-    "subtitle": "Automatic updates, zero effort",
-    "description": "Keep Instafel always up-to-date with this powerful companion app that handles updates automatically through Shizuku or Root."
+    "title": "",
+    "subtitle": "",
+    "description": ""
   },
   "buttons": {
     "download": "Unduh {{version}}",
-    "sourceCode": "Source Code"
+    "sourceCode": ""
   },
   "howItWorks": {
-    "title": "How It Works",
+    "title": "",
     "steps": {
       "install": {
-        "title": "Install & Grant Permissions",
-        "description": "Install the app and grant Shizuku or Root permissions."
+        "title": "",
+        "description": ""
       },
       "configure": {
-        "title": "Configure Settings",
-        "description": "Choose your update preferences and check frequency."
+        "title": "",
+        "description": ""
       },
       "automatic": {
-        "title": "Automatic Updates",
-        "description": "Relax and let Updater handle everything for you."
+        "title": "",
+        "description": ""
       }
     }
   },
   "features": {
     "title": "Fitur Utama",
     "silent": {
-      "title": "Silent Installation",
-      "description": "Runs in the background to automatically download and install the latest versions from our API."
+      "title": "",
+      "description": ""
     },
     "shizuku": {
-      "title": "Shizuku Support",
-      "description": "Works on non-rooted phones with Shizuku without requiring any additional root managers."
+      "title": "",
+      "description": ""
     },
     "openSource": {
-      "title": "Open Source",
-      "description": "Completely transparent code so you can trust the app with the necessary permissions."
+      "title": "",
+      "description": ""
     }
   },
   "whyUse": {
     "title": "Mengapa Menggunakan Updater?",
     "benefits": {
-      "latestFeatures": "Always have the latest patches and features automatically",
-      "saveTime": "Save time with background updates instead of manual OTA checks",
+      "latestFeatures": "",
+      "saveTime": "",
       "lightweight": "Ringan dan efisien dengan penggunaan sumber daya minimal",
       "notifications": "Dapatkan pemberitahuan hanya saat pembaruan berhasil diinstal",
       "compatibility": "Berfungsi dengan lancar bersama metode Shizuku dan Root"
