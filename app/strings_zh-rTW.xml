@@ -192,39 +192,12 @@
     <string name="ifl_a11_61">匯入舊 JSON 備份檔</string>
     <string name="ifl_a11_62">備份比較器</string>
     <string name="ifl_a11_63">用於完整匯入備份檔案，包含檔案中的所有旗幟</string>
-    <string name="ifl_a11_64">Adds flags to the backup file you use that are not in the backup you selected.</string>
-    <string name="ifl_a11_65">You can import old .json type backups with this option</string>
-    <string name="ifl_a11_66">Select Backup 1</string>
-    <string name="ifl_a11_67">Select Backup 2</string>
-    <string name="ifl_a11_68">Press to select backup</string>
-    <string name="ifl_a11_69">Compare Backups</string>
-    <string name="ifl_a11_70">Error while starting compression</string>
-    <string name="ifl_a11_71">Selected</string>
-    <string name="ifl_a11_72">Please select two backup file to compare</string>
-    <string name="ifl_a11_73">Comparison Result</string>
-    <string name="ifl_a11_74">Differences B1 to B2</string>
-    <string name="ifl_a11_75">Differences B2 to B1</string>
-    <string name="ifl_a11_76">Removed Flag IDs</string>
-    <string name="ifl_a11_77">Error while comparing backups</string>
     <!-- me.mamiiblt.instafel.ifl_a_admin_login -->
     <!-- OTA FOUND DIALOG -->
-    <string name="ifl_d1_01">New Update</string>
-    <string name="ifl_d1_02">Instafel will be upgraded to version v%1$d (Instagram v%2$s)</string>
-    <string name="ifl_d1_03">Cancel</string>
-    <string name="ifl_d1_04">Install</string>
-    <string name="ifl_d1_05">Hide</string>
-    <string name="ifl_d1_06">Connecting to update server</string>
     <!-- OTA UP-TO-DATE DIALOG -->
-    <string name="ifl_d2_02">Instafel is up-to-date.</string>
-    <string name="ifl_d2_01">Up-to-date</string>
-    <string name="ifl_d2_03">Okay</string>
     <!-- AUTOUPDATE TEXTS -->
-    <string name="ifl_t1_01">An error occurred while opening the apk-installer.</string>
-    <string name="ifl_t1_03">Instafel update failed.</string>
     <!-- GENERAL_FN CLASS -->
-    <string name="ifl_c1_01">A web browser was not found on your device</string>
     <!--- DIALOG SET FREQ -->
-    <string name="ifl_d3_01">Set Frequency</string>
     <string name="ifl_d3_02">確定</string>
     <!-- WELCOME_DIALOG -->
     <string name="ifl_d4_01">歡迎</string>
