@@ -1,57 +1,57 @@
 {
   "heroHeader": {
-    "title": "Instafel Updater",
-    "subtitle": "Automatic updates, zero effort",
-    "description": "Keep Instafel always up-to-date with this powerful companion app that handles updates automatically through Shizuku or Root."
+    "title": "Instafel telepítő",
+    "subtitle": "Automatikus frissítések, nulla erőfeszítés",
+    "description": "Tartsd az Instafelt mindig naprakészen ezzel a hatékony kiegészítő alkalmazással, amely automatikusan kezeli a frissítéseket a Shizuku vagy a Root segítségével."
   },
   "buttons": {
-    "download": "Download {{version}}",
-    "sourceCode": "Source Code"
+    "download": "{{version}} letöltése",
+    "sourceCode": "Forráskód"
   },
   "howItWorks": {
-    "title": "How It Works",
+    "title": "Hogyan működik",
     "steps": {
       "install": {
-        "title": "Install & Grant Permissions",
-        "description": "Install the app and grant Shizuku or Root permissions."
+        "title": "Telepítés és engedélyek megadása",
+        "description": "Telepítsd az alkalmazást, és adj meg Shizuku vagy Root jogosultságokat."
       },
       "configure": {
-        "title": "Configure Settings",
-        "description": "Choose your update preferences and check frequency."
+        "title": "Beállítások",
+        "description": "Válaszd ki a frissítési beállításokat és a ellenőrzés gyakoriságát."
       },
       "automatic": {
-        "title": "Automatic Updates",
-        "description": "Relax and let Updater handle everything for you."
+        "title": "Automatikus frissítések",
+        "description": "Lazíts és hagyd, hogy a telepítő mindent elvégezzen."
       }
     }
   },
   "features": {
-    "title": "Key Features",
+    "title": "Főbb funkciók",
     "silent": {
-      "title": "Silent Installation",
-      "description": "Runs in the background to automatically download and install the latest versions from our API."
+      "title": "Csendes telepítés",
+      "description": "A háttérben fut, hogy automatikusan letöltse és telepítse a legújabb verziókat az API-ból."
     },
     "shizuku": {
-      "title": "Shizuku Support",
-      "description": "Works on non-rooted phones with Shizuku without requiring any additional root managers."
+      "title": "Shizuku támogatás",
+      "description": "Shizuku segítségével root kezelő programok nélkül is működik root kezelő programmal nélküli telefonokon."
     },
     "openSource": {
-      "title": "Open Source",
-      "description": "Completely transparent code so you can trust the app with the necessary permissions."
+      "title": "Nyílt Forráskódú",
+      "description": "Teljesen átlátható kód, így megbízhatsz az alkalmazásban a szükséges engedélyekkel."
     }
   },
   "whyUse": {
-    "title": "Why Use Updater?",
+    "title": "Miért használd a telepítőt?",
     "benefits": {
-      "latestFeatures": "Always have the latest patches and features automatically",
-      "saveTime": "Save time with background updates instead of manual OTA checks",
-      "lightweight": "Lightweight and efficient with minimal resource usage",
-      "notifications": "Get notified only when updates are successfully installed",
-      "compatibility": "Works seamlessly with both Shizuku and Root methods"
+      "latestFeatures": "Mindig automatikusan kapod a legújabb javításokkal és funkciókkal",
+      "saveTime": "Időt takarítasz meg a háttérfrissítésekkel a manuális OTA-ellenőrzések helyett",
+      "lightweight": "Könnyű és hatékony, minimális erőforrás-felhasználással",
+      "notifications": "Csak akkor kapj értesítést, ha a frissítések telepítése sikeresen megtörtént.",
+      "compatibility": "Zökkenőmentesen működik mind a Shizuku, mind a Root módszerekkel"
     }
   },
   "callToAction": {
-    "title": "Get it now!",
-    "description": "Keep your Instafel experience up-to-date with minimum effort. Download the updater now."
+    "title": "Szerezd be most!",
+    "description": "Tartsd naprakészen az Instafel élményedet minimális erőfeszítéssel. Töltsd le a telepítőt most."
   }
 }
