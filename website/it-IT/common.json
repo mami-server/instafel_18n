@@ -3,9 +3,9 @@
     "items": {
       "backups": "Backup",
       "flags": "Contrassegni",
-      "updater": "Updater",
+      "updater": "Aggiornatore",
       "src_code": "Codice Sorgente",
-      "download": "Download",
+      "download": "Scaricamento",
       "contributors": "Collaboratori"
     },
     "1": "Aspetto",
@@ -21,9 +21,11 @@
     "5": "Wiki",
     "6": "Backup",
     "7": "Link",
-    "8": "Updater",
-    "9": "Download",
+    "8": "Aggiornatore",
+    "9": "Scaricamento",
     "10": "Codice Sorgente",
-    "11": "Contrassegni"
+    "11": "Contrassegni",
+    "12": "Contributors",
+    "13": "Translate"
   }
 }
