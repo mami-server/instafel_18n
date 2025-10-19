@@ -1,7 +1,7 @@
 {
   "backToLibrary": "Voltar à Biblioteca de Backup",
   "version": "Versão {{verStr}}",
-  "downloadButton": "",
+  "downloadButton": "Download Backup",
   "downloading": "Baixando...",
   "importButton": "Importar no Instafel",
   "openingInstafel": "Abrindo Instafel...",
