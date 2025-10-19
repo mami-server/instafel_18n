@@ -19,7 +19,7 @@
   "patcherInfoDesc": "v{{version}} ({{commit}})",
   "igVersion": "Wersja Instagrama",
   "generationId": "ID wersji",
-  "hash": "Hash ({{type}})",
+  "hash": "Hasz ({{type}})",
   "changelogs": "Dziennik zmian",
   "noChanges": "Brak zmian w tym wydaniu"
 }
