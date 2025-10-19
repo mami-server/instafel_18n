@@ -5,13 +5,9 @@
     <string name="logs">Journaux</string>
     <string name="settings">Paramètres</string>
     <!-- Setup Updater -->
-    <string name="setup_ifl">Setup Updater</string>
-    <string name="checker_arch">Checker Architecture</string>
-    <string name="checker_itype">Checker Installation Type</string>
     <string name="unclone">Non cloné</string>
     <string name="clone">Cloné</string>
     <string name="cont">Continuer</string>
-    <string name="warning">Warning</string>
     <string name="warning_desc">Veuillez sélectionner une architecture et un type d\'installation.</string>
     <!-- Status Fragment -->
     <string name="authorized">Autorisé</string>
@@ -26,7 +22,6 @@
     <string name="battery_unrestricted">Non restreint</string>
     <string name="battery_dialog_title">Autoriser le mode non restreint</string>
     <string name="battery_dialog_msg">Pour permettre à Instafel Updater de fonctionner normalement, l\'usage de la batterie ne doit pas être restreint.</string>
-    <string name="updater_status">Updater Status</string>
     <string name="start">Démarrer</string>
     <string name="stop">Arrêter</string>
     <string name="permission_rejected">Permission rejetée</string>
@@ -42,7 +37,6 @@
     <string name="please_allow_root">Accès root rejeté, veuillez l\'autoriser depuis la gestionnaire.</string>
     <string name="please_install_root">Impossible d\'obtenir l\'accès root</string>
     <string name="please_allow_unrestiracted">Veuillez définir le mode de restriction de batterie sur non restreint</string>
-    <string name="dialog_title">Grant Permission</string>
     <string name="dialog_desc">Instafel Updater a besoin des permissions de notification et de Root pour fonctionner normalement.</string>
     <string name="dialog_ok">OK</string>
     <string name="hour">heure</string>
@@ -63,7 +57,6 @@
     <string name="error">Erreur</string>
     <!-- Setting Keys -->
     <string name="cname_general">Général</string>
-    <string name="cname_behavior">Behavior</string>
     <string name="cname_about">À propos de Updater</string>
     <string name="checker_interval">Intervalle de vérification</string>
     <string name="checker_interval_s">Changer l\'intervalle de vérification</string>
@@ -87,9 +80,7 @@
     <string name="developed_by">Développé avec ❤️ par mamiiblt</string>
     <string name="about_app">À propos</string>
     <string name="crash_logs">Sauvegarder les rapports de plantage</string>
-    <string name="crash_logs_s">Logger will write every crash to a daily log.</string>
     <string name="disable_error">Désactiver les notifications d\'avertissement.</string>
     <string name="disable_error_s">Désactiver les notifications d\'erreur non critiques</string>
     <string name="updater_guide">Guide d\'utilisation de l\'Updater</string>
-    <string name="updater_guide_s">Learn more things about updater</string>
 </resources>
