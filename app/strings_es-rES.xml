@@ -9,7 +9,7 @@
     <string name="ifl_a0_12">Elimina los anuncios que se muestran en el feed, reels u otros lugares.</string>
     <string name="ifl_a0_13">Reiniciar la app para aplicar los cambios.</string>
     <string name="ifl_a0_14">Habilitado por defecto, no se puede cambiar.</string>
-    <string name="ifl_a0_15">Instafel Updater</string>
+    <string name="ifl_a0_15">Actualizador de Instafel</string>
     <string name="ifl_a0_16">Usa Instafel Updater para actualizaciones automáticas con Root / Shizuku.</string>
     <!-- me.mamiiblt.instafel.ifl_a_menu -->
     <string name="ifl_a0_02">Opciones de Actualización</string>
@@ -128,8 +128,8 @@
     <!-- me.mamiiblt.instafel.ifl_a_about_contributors and translators -->
     <string name="ifl_a10_01">Contribuyentes</string>
     <!-- me.mamiiblt.instafel.ifl_a_library_menu -->
-    <string name="ifl_a11_01">Flag Library</string>
-    <string name="ifl_a11_02">Backup Library</string>
+    <string name="ifl_a11_01">Biblioteca de Banderas</string>
+    <string name="ifl_a11_02">Biblioteca de Copias de Seguridad</string>
     <string name="ifl_a11_03">Error al obtener copias de seguridad desde la API</string>
     <string name="ifl_a11_04">Creado por %1$s</string>
     <string name="ifl_a11_05">Información de copia de seguridad</string>
