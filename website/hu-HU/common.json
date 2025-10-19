@@ -3,7 +3,7 @@
     "items": {
       "backups": "Mentések",
       "flags": "Zászlók",
-      "updater": "Frissítő",
+      "updater": "Telepítő",
       "src_code": "Forráskód",
       "download": "Letöltés",
       "contributors": "Közreműködők"
@@ -21,9 +21,11 @@
     "5": "Wiki",
     "6": "Mentések",
     "7": "Hivatkozások",
-    "8": "Frissítő",
+    "8": "Telepítő",
     "9": "Letöltés",
     "10": "Forráskód",
-    "11": "Zászlók"
+    "11": "Zászlók",
+    "12": "Contributors",
+    "13": "Translate"
   }
 }
