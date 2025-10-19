@@ -136,7 +136,7 @@
     <string name="ifl_a11_06">Nome</string>
     <string name="ifl_a11_07">Descrizione</string>
     <string name="ifl_a11_08">Ultimo Aggiornamento</string>
-    <string name="ifl_a11_09">Changelog</string>
+    <string name="ifl_a11_09">Registro delle modifiche</string>
     <string name="ifl_a11_10">Applica Backup</string>
     <string name="ifl_a11_11">Altro</string>
     <string name="ifl_a11_12">Abilita Aggiornamento Automatico</string>
@@ -186,7 +186,7 @@
     <string name="ifl_a11_55">Come Albert Einstein</string>
     <string name="ifl_a11_56">Versione Del Backup</string>
     <string name="ifl_a11_57">Come 1.0, 1.0-hotfix ecc.</string>
-    <string name="ifl_a11_58">Changelog</string>
+    <string name="ifl_a11_58">Registro delle modifiche</string>
     <string name="ifl_a11_59">Puoi scrivere qui il changelog del backup</string>
     <string name="ifl_a11_60">Esporta Backup</string>
     <string name="ifl_a11_61">Importa Vecchi Backup JSON</string>
@@ -217,7 +217,7 @@
     <!-- OTA UP-TO-DATE DIALOG -->
     <string name="ifl_d2_02">Instafel è aggiornato.</string>
     <string name="ifl_d2_01">Aggiornato</string>
-    <string name="ifl_d2_03">Okay</string>
+    <string name="ifl_d2_03">Va bene</string>
     <!-- AUTOUPDATE TEXTS -->
     <string name="ifl_t1_01">Si è verificato un errore durante l\'apertura dell\'apk-installer.</string>
     <string name="ifl_t1_03">Aggiornamento Instafel non riuscito.</string>
@@ -225,7 +225,7 @@
     <string name="ifl_c1_01">Non è stato trovato un browser web sul tuo dispositivo</string>
     <!--- DIALOG SET FREQ -->
     <string name="ifl_d3_01">Imposta frequenza</string>
-    <string name="ifl_d3_02">Okay</string>
+    <string name="ifl_d3_02">Va bene</string>
     <!-- WELCOME_DIALOG -->
     <string name="ifl_d4_01">Benvenuto</string>
     <string name="ifl_d4_02">Benvenuti su Instafel, questa mod è stata sviluppata per fornire a tutti le ultime funzionalità delle build alpha di Instagram\\n\\nÈ possibile accedere al menu tenendo premuto il pulsante hamburger nella scheda del profilo.</string>
