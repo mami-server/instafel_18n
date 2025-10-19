@@ -18,8 +18,8 @@
   "patcherInfo": "Patcher Sürümü",
   "patcherInfoDesc": "v{{version}} ({{commit}})",
   "igVersion": "Instagram Sürümü",
-  "generationId": "Generation ID",
-  "hash": "Hash ({{type}})",
+  "generationId": "Jenerasyon ID",
+  "hash": "MD5 ({{type}})",
   "changelogs": "Değişiklikler",
   "noChanges": "Bu sürümde değişiklik yok"
 }
