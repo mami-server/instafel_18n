@@ -1,14 +1,19 @@
 {
-  "title": "Contributors",
-  "desc": "Meet the amazing people who made Instafel possible",
+  "title": "Colaboradores",
+  "desc": "Conoce a la gente asombrosa que hizo posible Instafel",
   "roles": {
-    "dev": "Developer",
-    "mod": "Moderator",
-    "cre": "Creator"
+    "dev": "Desarrollador",
+    "mod": "Moderador",
+    "cre": "Creador"
   },
   "titles": {
-    "team": "Team",
-    "translators": "Translators",
-    "special": "Special Thanks"
+    "team": "Equipo",
+    "translators": "Traductores",
+    "special": "Menciones honoríficas"
+  },
+  "pleaseTranslateCard": {
+    "title": "Would you like to translate too?",
+    "desc": "Join Instafel's Crowdin project and contribute to the translation!",
+    "joinUs": "Join us on Crowdin!"
   }
 }
