@@ -1,7 +1,7 @@
 {
   "navbar": {
     "items": {
-      "backups": "Backups",
+      "backups": "Copias de seguridad",
       "flags": "Banderas",
       "updater": "Actualizador",
       "src_code": "Código Fuente",
@@ -19,11 +19,13 @@
     "3": "Desarrollado con ❤️ por mamiiblt",
     "4": "Recursos",
     "5": "Wiki",
-    "6": "Backups",
+    "6": "Copias de seguridad",
     "7": "Enlaces",
     "8": "Actualizador",
     "9": "Descargar",
     "10": "Código Fuente",
-    "11": "Banderas"
+    "11": "Banderas",
+    "12": "Contributors",
+    "13": "Translate"
   }
 }
