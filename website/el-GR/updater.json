@@ -1,27 +1,27 @@
 {
   "heroHeader": {
-    "title": "Instafel Updater",
-    "subtitle": "Automatic updates, zero effort",
-    "description": "Keep Instafel always up-to-date with this powerful companion app that handles updates automatically through Shizuku or Root."
+    "title": "Ενημερωτής Instafel",
+    "subtitle": "Αυτόματες ενημερώσεις χωρίς παρεμβάσεις",
+    "description": "Κρατήστε το Instafel πάντα ενημερωμένο με αυτό το ισχυρό πρόγραμμα που διαχειρίζεται τις ενημερώσεις αυτόματα μέσω Shizuku ή root."
   },
   "buttons": {
-    "download": "Download {{version}}",
-    "sourceCode": "Source Code"
+    "download": "Λήψη {{version}}",
+    "sourceCode": "Πηγαίος κώδικας"
   },
   "howItWorks": {
-    "title": "How It Works",
+    "title": "Πώς λειτουργεί",
     "steps": {
       "install": {
-        "title": "Install & Grant Permissions",
-        "description": "Install the app and grant Shizuku or Root permissions."
+        "title": "Εγκαταστήστε και παραχωρήστε τις άδειες",
+        "description": "Εγκαταστήστε την εφαρμογή και παραχωρήστε τις άδειες Shizuku ή root."
       },
       "configure": {
-        "title": "Configure Settings",
-        "description": "Choose your update preferences and check frequency."
+        "title": "Διαμόρφωση Ρυθμίσεων",
+        "description": "Επιλέξτε τις προτιμήσεις και τη συχνότητα ελέγχου των ενημερώσεων."
       },
       "automatic": {
-        "title": "Automatic Updates",
-        "description": "Relax and let Updater handle everything for you."
+        "title": "Αυτόματες ενημερώσεις",
+        "description": "Χαλαρώστε και αφήστε τον ενημερωτή να κάνει τα μαγικά του!"
       }
     }
   },
