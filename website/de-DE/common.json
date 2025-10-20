@@ -5,7 +5,7 @@
       "flags": "Flaggen",
       "updater": "Updater",
       "src_code": "Quellcode",
-      "download": "Download",
+      "download": "Herunterladen",
       "contributors": "Mitwirkende"
     },
     "1": "Darstellung",
@@ -19,11 +19,13 @@
     "3": "Mit ❤️ entwickelt von mamiiblt",
     "4": "Ressourcen",
     "5": "Wiki",
-    "6": "Backups",
+    "6": "Sicherungen",
     "7": "Links",
     "8": "Updater",
-    "9": "Download",
+    "9": "Herunterladen",
     "10": "Quellcode",
-    "11": "Flaggen"
+    "11": "Flaggen",
+    "12": "Contributors",
+    "13": "Translate"
   }
 }

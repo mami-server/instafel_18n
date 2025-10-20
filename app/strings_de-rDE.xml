@@ -142,7 +142,7 @@
     <string name="ifl_a11_12">Auto-Update aktivieren</string>
     <string name="ifl_a11_13">Wenn ein neues Update für dein Backup veröffentlicht wird, wird es automatisch aktualisiert</string>
     <string name="ifl_a11_14">Dieses Backup wird jetzt angewendet und aktualisiert, falls Auto-Update aktiviert ist</string>
-    <string name="ifl_a11_15">Backups</string>
+    <string name="ifl_a11_15">Sicherungen</string>
     <string name="ifl_a11_16">Über den Autor</string>
     <string name="ifl_a11_17">Fehler beim Abrufen der Backup-Informationen</string>
     <string name="ifl_a11_18">Aktualisiert auf v%1$s am %2$s</string>

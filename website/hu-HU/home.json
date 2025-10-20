@@ -1,43 +1,43 @@
 {
   "landing": {
-    "1": "The Best Alpha Experience",
-    "2": "You can try out latest alpha builds as quickly as possible with Instafel",
-    "3": "Download",
-    "4": "Read Wiki",
-    "5": "Join Community"
+    "1": "A legjobb alfa élmény",
+    "2": "Az Instafel segítségével a lehető leggyorsabban kipróbálhatod a legújabb alfa verziókat.",
+    "3": "Letöltés",
+    "4": "Wiki elolvasása",
+    "5": "Csatlakozás a közösséghez"
   },
   "features": {
-    "1": "Instafel Features",
-    "2": "Explore the powerful features that make Instafel the best choice for Instagram Alpha users",
-    "3": "Developer Options",
-    "4": "Access the developer-exclusive tools in latest Alpha bases",
-    "5": "Clone Support",
-    "6": "If you don't want to install the Alpha versions instead of the Instagram, you can install it as a secondary app!",
-    "7": "OTA Updates",
-    "8": "You can update Instafel flawlessly using the in-app updater or the automatic update plugin Instafel Updater",
-    "9": "Ads Removed",
-    "10": "Use it comfortably without any ads in the app!",
-    "11": "Crash Reports",
-    "12": "It is very common for the application to crash when using Alpha versions, Instafel always keeps a crash report for such cases",
-    "13": "Libraries",
-    "14": "You can find useful flags, backups in Instafel Library!"
+    "1": "Instafel funkciói",
+    "2": "Fedezd fel azokat a hatékony funkciókat, amelyek az Instafelt az Instagram Alpha felhasználók számára a legjobb választássá teszik",
+    "3": "Fejlesztői beállítások",
+    "4": "Hozzáférés a fejlesztőknek fenntartott eszközökhöz a legújabb alfa fázisokban",
+    "5": "Klónozás támogatás",
+    "6": "Ha nem szeretnéd az Instagram helyett az alfa verziót telepíteni, akkor másodlagos alkalmazásként is telepítheted!",
+    "7": "OTA frissítések",
+    "8": "Az Instafel alkalmazást az alkalmazáson belüli frissítővel vagy az automatikusan frissítő plugin, az Instafel telepítő segítségével hibátlanul frissítheted.",
+    "9": "Hírdetések eltávolítva",
+    "10": "Használd kényelmesen, hirdetések nélkül az alkalmazásban!",
+    "11": "Összeomlás jelentések",
+    "12": "Az alfa verziók használata során nagyon gyakran előfordul, hogy az alkalmazás összeomlik. Az Instafel minden ilyen esetben megőrzi a rendszer összeomlásáról szóló jelentést.",
+    "13": "Könyvtárak",
+    "14": "Hasznos zászlókat és mentéseket találhatsz az Instafel könyvtárban!"
   },
   "join_community": {
-    "1": "Stay Connected",
-    "2": "Join Community for Discussion & Latest News",
-    "3": "Join our Telegram group to stay up-to-date with the latest Instafel updates and news. Share your feedback, suggestions and learn everything with the community.",
-    "4": "Join Instafel Community",
-    "5": "🎉 New patcher is available now!",
-    "6": "Today 02:25 AM",
-    "7": "Finally I solved issues related by resource decompilation events :)",
-    "8": "Yesterday 08:00 PM",
-    "9": "8,000+ members",
-    "10": "325 online"
+    "1": "Maradj kapcsolatban",
+    "2": "Csatlakozz a közösséghez a beszélgetésekhez és a legfrissebb hírekhez",
+    "3": "Csatlakozz a Telegram csoportunkhoz, hogy naprakész legyél az Instafel legújabb frissítéseivel és híreivel kapcsolatban. Oszd meg velünk visszajelzéseidet, javaslataidat, és tudj meg mindent a közösségtől.",
+    "4": "Csatlakozz az Instafel közösségéhez",
+    "5": "🎉 Az új frissítés már elérhető!",
+    "6": "Ma 02:25",
+    "7": "Végül megoldottam az erőforrás-dekompilációs eseményekkel kapcsolatos problémákat :)",
+    "8": "Tegnap 20:00",
+    "9": "8000+ tag",
+    "10": "325 elérhető"
   },
   "try_now": {
-    "1": "Ready to Try Instafel?",
-    "2": "Experience the latest Instagram Alpha features with our enhanced app, download now and join thousands of satisfied users",
-    "3": "Download Now",
-    "4": "View Updater"
+    "1": "Készen állsz az Instafel kipróbálására?",
+    "2": "Próbáld ki a legújabb Instagram Alpha funkciókat továbbfejlesztett alkalmazásunkkal, töltsd le most, és csatlakozz több ezer elégedett felhasználóhoz",
+    "3": "Letöltés",
+    "4": "Telepítő megtekintése"
   }
 }

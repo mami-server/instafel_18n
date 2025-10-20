@@ -9,8 +9,8 @@
     <string name="ifl_a0_12">Eltávolítja a hírfolyamban, a rövidvideóknál vagy más helyeken megjelenő hirdetéseket.</string>
     <string name="ifl_a0_13">Indítsd újra az appot a módosítások alkalmazásához.</string>
     <string name="ifl_a0_14">Alapértelmezés szerint engedélyezve, nem módosítható.</string>
-    <string name="ifl_a0_15">Instafel Updater</string>
-    <string name="ifl_a0_16">Használja az Instafel Updater-t automatikus frissítésekhez Root / Shizuku segítségével.</string>
+    <string name="ifl_a0_15">Instafel telepítő</string>
+    <string name="ifl_a0_16">Használd az Instafel telepítőt az automatikus frissítésekhez a Root / Shizuku segítségével.</string>
     <!-- me.mamiiblt.instafel.ifl_a_menu -->
     <string name="ifl_a0_02">Frissítés beállításai</string>
     <string name="ifl_a0_03">Nyelv</string>

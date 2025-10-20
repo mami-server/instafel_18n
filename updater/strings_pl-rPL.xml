@@ -27,8 +27,8 @@
     <string name="battery_dialog_title">Zezwól na tryb bez ograniczeń</string>
     <string name="battery_dialog_msg">Aby Instafel Updater działał poprawnie, aplikacja nie może mieć ograniczeń w działaniu w tle.</string>
     <string name="updater_status">Status Updatera</string>
-    <string name="start">Start</string>
-    <string name="stop">Stop</string>
+    <string name="start">Inizio</string>
+    <string name="stop">Ferrarę</string>
     <string name="permission_rejected">Odmowa uprawnień</string>
     <string name="perm_rejected_desc">Autoryzuj Instafel Updater w aplikacji Shizuku</string>
     <string name="please_start_shizuku">Uruchom Shizuku z poziomu aplikacji</string>

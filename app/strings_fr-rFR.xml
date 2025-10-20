@@ -10,7 +10,7 @@
     <string name="ifl_a0_13">Redémarrez l\'application pour appliquer les changements.</string>
     <string name="ifl_a0_14">Activé par défaut, ne peut pas être modifié.</string>
     <string name="ifl_a0_15">Instafel Updater</string>
-    <string name="ifl_a0_16">Utilisez Instafel Updater pour les mises à jour automatiques avec Root / Shizuku.</string>
+    <string name="ifl_a0_16">Utilisez Instafel Updater pour les mises à jour automatiques avec Root / Shizuku</string>
     <!-- me.mamiiblt.instafel.ifl_a_menu -->
     <string name="ifl_a0_02">Mettre à jour les paramètres</string>
     <string name="ifl_a0_03">Langue</string>
@@ -84,7 +84,7 @@
     <string name="ifl_a4_37">D\'accord</string>
     <string name="ifl_a4_38">Annuler</string>
     <string name="ifl_a4_39">Erreur lors de la lecture du fichier de remplacement.</string>
-    <string name="ifl_a4_40">%1$s indicateurs exportés avec succès</string>
+    <string name="ifl_a4_40">%1$s Indicateurs</string>
     <string name="ifl_a4_41">Erreur lors de l\'écriture du contenu dans le fichier de sauvegarde.</string>
     <string name="ifl_a4_42">Erreur lors de l\'exportation du fichier de sauvegarde</string>
     <!-- me.mamiiblt.instafel.ifl_a_about_ota -->
@@ -219,7 +219,7 @@
     <string name="ifl_d2_01">À jour</string>
     <string name="ifl_d2_03">D\'accord</string>
     <!-- AUTOUPDATE TEXTS -->
-    <string name="ifl_t1_01">An error occurred while opening the apk-installer.</string>
+    <string name="ifl_t1_01">Une erreur est survenue lors de l\'ouverture du programme d\'installation d\'APK.</string>
     <string name="ifl_t1_03">La mise à jour d\'Instafel a échoué.</string>
     <!-- GENERAL_FN CLASS -->
     <string name="ifl_c1_01">Un navigateur Web est introuvable sur votre appareil</string>

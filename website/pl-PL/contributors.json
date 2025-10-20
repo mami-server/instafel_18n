@@ -10,5 +10,10 @@
     "team": "Zespół",
     "translators": "Tłumacze",
     "special": "Specjalne podziękowania"
+  },
+  "pleaseTranslateCard": {
+    "title": "Chcesz pomóc w tłumaczeniu?",
+    "desc": "Dołącz do projektu Instafel na Crowdin i pomóż nam w tłumaczeniu!",
+    "joinUs": "Dołącz do nas na Crowdin!"
   }
 }

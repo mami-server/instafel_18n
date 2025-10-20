@@ -1,7 +1,7 @@
 {
   "all": "Tümü",
   "direct": "Sohbet",
-  "reels": "Reels",
+  "reels": "Reelsler",
   "stories": "Hikayeler",
   "feed": "Akış",
   "interface": "Arayüz",
@@ -14,6 +14,6 @@
   "profile": "Profil",
   "professional": "Profesyonel",
   "livestreams": "Canlı Yayınlar",
-  "meta-ai": "Meta AI",
+  "meta-ai": "Meta YZ",
   "other": "Diğerleri"
 }
