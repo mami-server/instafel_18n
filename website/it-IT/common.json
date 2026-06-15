@@ -2,7 +2,6 @@
   "navbar": {
     "items": {
       "backups": "Backup",
-      "flags": "Contrassegni",
       "updater": "Aggiornatore",
       "src_code": "Codice Sorgente",
       "download": "Scaricamento",
@@ -25,7 +24,7 @@
     "9": "Scaricamento",
     "10": "Codice Sorgente",
     "11": "Contrassegni",
-    "12": "Contributors",
-    "13": "Translate"
+    "12": "Collaboratori",
+    "13": "Traduci"
   }
 }
