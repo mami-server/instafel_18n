@@ -2,7 +2,6 @@
   "navbar": {
     "items": {
       "backups": "Backups",
-      "flags": "Flags",
       "updater": "Updater",
       "src_code": "Código Fonte",
       "download": "Download",
@@ -25,7 +24,7 @@
     "9": "Download",
     "10": "Código Fonte",
     "11": "Flags",
-    "12": "Contributors",
-    "13": "Translate"
+    "12": "Contribuidores",
+    "13": "Tradução"
   }
 }
