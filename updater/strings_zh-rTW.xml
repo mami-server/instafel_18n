@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ (c) 2026 Muhammed Ali Bulut, All rights reserved.
+  ~
+  ~ See LICENSE file in repository root for copy file of license. For copyright
+  ~ notices, technical issues, feedback, or any other related to this code file or
+  ~ project, please contact me via mamii@mamii.dev or other ways.
+  -->
 <resources>
     <!-- Nav Bar -->
     <string name="status">狀態</string>
@@ -6,6 +13,7 @@
     <string name="settings">設定</string>
     <!-- Setup Updater -->
     <string name="setup_ifl">設定更新器</string>
+    <string name="setup_ifl_desc">Configure your installation preferences</string>
     <string name="checker_arch">檢查器架構</string>
     <string name="checker_itype">檢查器安裝類型</string>
     <string name="unclone">非複製</string>
@@ -46,50 +54,55 @@
     <string name="dialog_desc">Instafel 更新器需要通知與 Root 權限才能運作正常。</string>
     <string name="dialog_ok">確定</string>
     <string name="hour">小時</string>
+    <string name="hour_imz">%1$s hour</string>
     <string name="minute">分鐘</string>
     <string name="upd_started">更新起已開啟</string>
     <string name="upd_stopped">更新器已停止</string>
     <!-- Code Strings -->
     <string name="runtime_log_cleared">運行日誌已清除。</string>
-    <string name="work_restarted">Updater is restarted</string>
+    <string name="work_restarted">更新器已重新啟動</string>
     <!-- Notification Strings -->
-    <string name="n1_downloading">Downloading Update</string>
-    <string name="n2_waiting">Waiting for update server</string>
-    <string name="n2_sub">Waiting for API connection...</string>
-    <string name="n3_installing">Installing Update</string>
-    <string name="n3_sub">Download complete, installing...</string>
-    <string name="n4_complete">Update Successfully Installed</string>
-    <string name="n4_sub">Instafel updated to v%1$s</string>
-    <string name="error">Error</string>
+    <string name="n1_downloading">正在下載更新</string>
+    <string name="n2_waiting">正在等待更新伺服器</string>
+    <string name="n2_sub">正在等待 API 連接......</string>
+    <string name="n3_installing">正在安裝更新</string>
+    <string name="n3_sub">下載完成，正在安裝中......</string>
+    <string name="n4_complete">成功安裝更新</string>
+    <string name="n4_sub">已更新 Instafel 至 v%1$s</string>
+    <string name="error">錯誤</string>
     <!-- Setting Keys -->
-    <string name="cname_general">General</string>
-    <string name="cname_behavior">Behavior</string>
-    <string name="cname_about">About Updater</string>
-    <string name="checker_interval">Checker Interval</string>
-    <string name="checker_interval_s">Change checker interval</string>
-    <string name="itype">Installation Type</string>
-    <string name="itype_s">Change installation type</string>
-    <string name="send_notif">Send Notification</string>
-    <string name="send_notif_s">Updater sends a notification after updating Instafel</string>
-    <string name="use_mobile_data">Mobile Data</string>
-    <string name="use_mobile_data_s">Allows downloading updates with mobile data</string>
-    <string name="hour12_rule">12 Hour Rule</string>
-    <string name="hour12_rule_s">Allows you to install the update after released 12 hours</string>
-    <string name="source_code">Source Code</string>
-    <string name="source_code_s">Visit source code of Instafel</string>
-    <string name="instafel_website">Instafel Website</string>
-    <string name="create_issue">Create Issue</string>
-    <string name="create_issue_s">Create an issue on GitHub for feedback!</string>
-    <string name="app_version">App Version</string>
-    <string name="app_version_s">Version v%1$s (%2$s)</string>
-    <string name="language">Language</string>
-    <string name="language_s">Set the language of app</string>
-    <string name="developed_by">Developed with ❤️ by mamiiblt</string>
-    <string name="about_app">About</string>
-    <string name="crash_logs">Save Crash Logs</string>
-    <string name="crash_logs_s">Logger will write every crash to a daily log.</string>
-    <string name="disable_error">Disable Warning Notif.</string>
-    <string name="disable_error_s">Disables non critical error notifications</string>
-    <string name="updater_guide">Updater Guide</string>
-    <string name="updater_guide_s">Learn more things about updater</string>
+    <string name="cname_general">一般</string>
+    <string name="cname_behavior">行為</string>
+    <string name="cname_about">關於更新器</string>
+    <string name="checker_interval">檢查頻率</string>
+    <string name="checker_interval_s">更改檢查器頻率</string>
+    <string name="install_method">Installation Method</string>
+    <string name="install_method_desc">You can change installation method</string>
+    <string name="itype">安裝類型</string>
+    <string name="itype_s">更改安裝類型</string>
+    <string name="send_notif">傳送通知</string>
+    <string name="send_notif_s">更新器會於更新 Instafel 後傳送一則通知</string>
+    <string name="use_mobile_data">行動數據</string>
+    <string name="use_mobile_data_s">允許透過行數據下載更新</string>
+    <string name="hour12_rule">12 小時規則</string>
+    <string name="hour12_rule_s">允許你於版本發布 12 小時後安裝更新</string>
+    <string name="source_code">原始碼</string>
+    <string name="source_code_s">查看 Instafel 原始碼</string>
+    <string name="instafel_website">Instafel 網站</string>
+    <string name="create_issue">建立議題</string>
+    <string name="create_issue_s">在 GitHub 上建立議題並提供回饋！</string>
+    <string name="app_version">應用程式版本</string>
+    <string name="app_version_s">版本 v%1$s（%2$s）</string>
+    <string name="language">語言</string>
+    <string name="language_s">設定應用程式語言</string>
+    <string name="developed_by">由 mamiiblt 用 ❤️ 開發</string>
+    <string name="about_app">關於</string>
+    <string name="crash_logs">儲存崩潰日誌</string>
+    <string name="crash_logs_s">記錄器會在每次崩潰時寫入到日誌中。</string>
+    <string name="disable_error">停用警告通知</string>
+    <string name="disable_error_s">停用非重大錯誤通知</string>
+    <string name="updater_guide">更新器指南</string>
+    <string name="updater_guide_s">了解更多關於更新器的資訊</string>
+    <string name="help_translation">Help to Translation</string>
+    <string name="help_translation_desc">Join Crowdin project and contribute!</string>
 </resources>
