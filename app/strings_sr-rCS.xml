@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ (c) 2026 Muhammed Ali Bulut, All rights reserved.
+  ~
+  ~ See LICENSE file in repository root for copy file of license. For copyright
+  ~ notices, technical issues, feedback, or any other related to this code file or
+  ~ project, please contact me via mamii@mamii.dev or other ways.
+  -->
 <resources>
     <!-- sa -->
     <string name="ifl_a5_10">Nemate dozvolu</string>
@@ -110,6 +117,8 @@
     <string name="ifl_a5_dia_freq_05">Jednom nedeljno</string>
     <!-- me.mamiiblt.instafel.ifl_a_language -->
     <string name="ifl_a6_01">Koristi jezik uređaja</string>
+    <string name="ifl_a6_02">Supported</string>
+    <string name="ifl_a6_03">Not Supported</string>
     <!-- me.mamiiblt.instafel.ifl_a_crashlog -->
     <string name="ifl_a7_01">Izveštaji</string>
     <string name="ifl_a7_02">Obriši izveštaje</string>
@@ -181,19 +190,19 @@
     <string name="ifl_a11_50">Molimo vas da unesete važeći naziv verzije</string>
     <string name="ifl_a11_51">Izvezi rezervnu kopiju</string>
     <string name="ifl_a11_52">Ime rezervne kopije</string>
-    <string name="ifl_a11_53">"Like Mami's Perfect Backup"</string>
+    <string name="ifl_a11_53">"Kao Mami's savršena rezervna kopija"</string>
     <string name="ifl_a11_54">Ime autora</string>
     <string name="ifl_a11_55">Kao Albert Ajnštajn</string>
     <string name="ifl_a11_56">Verzija rezervne kopije</string>
-    <string name="ifl_a11_57">Like 1.0, 1.0-hotfix etc.</string>
+    <string name="ifl_a11_57">Kao 1.0, 1.0-hitna ispravka itd.</string>
     <string name="ifl_a11_58">Spisak promena</string>
     <string name="ifl_a11_59">Ovde možete napisati rezervnu kopiju dnevnika promena</string>
     <string name="ifl_a11_60">Izvezi rezervnu kopiju</string>
-    <string name="ifl_a11_61">Import Old JSON Backups</string>
-    <string name="ifl_a11_62">Backup Comparator</string>
-    <string name="ifl_a11_63">Used to import a backup file completely with all flags in file</string>
-    <string name="ifl_a11_64">Adds flags to the backup file you use that are not in the backup you selected.</string>
-    <string name="ifl_a11_65">You can import old .json type backups with this option</string>
+    <string name="ifl_a11_61">Uvezite stare JSON rezervne kopije</string>
+    <string name="ifl_a11_62">Uporedi rezervne kopije</string>
+    <string name="ifl_a11_63">Koristi se za potpuni uvoz rezervne kopije sa svim zastavicama u datoteci</string>
+    <string name="ifl_a11_64">Dodaje zastavice datoteci rezervne kopije koju koristite, a koje nisu u rezervnoj kopiji koju ste izabrali.</string>
+    <string name="ifl_a11_65">Možete da uvezete stare rezervne kopije tipa .json pomoću ove opcije</string>
     <string name="ifl_a11_66">Izaberi rezervnu kopiju 1</string>
     <string name="ifl_a11_67">Izaberi rezervnu kopiju 2</string>
     <string name="ifl_a11_68">Pritisnite da biste izabrali rezervnu kopiju</string>
@@ -209,7 +218,7 @@
     <!-- me.mamiiblt.instafel.ifl_a_admin_login -->
     <!-- OTA FOUND DIALOG -->
     <string name="ifl_d1_01">Novo ažuriranje</string>
-    <string name="ifl_d1_02">Instafel will be upgraded to version v%1$d (Instagram v%2$s)</string>
+    <string name="ifl_d1_02">Instafel će biti nadograđen na verziju v%1$d (Instagram v%2$s)</string>
     <string name="ifl_d1_03">Otkaži</string>
     <string name="ifl_d1_04">Instaliraj</string>
     <string name="ifl_d1_05">Sakrij</string>
@@ -219,15 +228,22 @@
     <string name="ifl_d2_01">Ažuriran</string>
     <string name="ifl_d2_03">Okej</string>
     <!-- AUTOUPDATE TEXTS -->
-    <string name="ifl_t1_01">An error occurred while opening the apk-installer.</string>
-    <string name="ifl_t1_03">Instafel update failed.</string>
+    <string name="ifl_t1_01">Došlo je do greške prilikom otvaranja apk-instalera.</string>
+    <string name="ifl_t1_03">Ažuriranje Instafela nije uspelo.</string>
     <!-- GENERAL_FN CLASS -->
-    <string name="ifl_c1_01">A web browser was not found on your device</string>
+    <string name="ifl_c1_01">Veb pregledač nije pronađen na vašem uređaju</string>
     <!--- DIALOG SET FREQ -->
-    <string name="ifl_d3_01">Set Frequency</string>
-    <string name="ifl_d3_02">Okay</string>
+    <string name="ifl_d3_01">Podеsi učеstalost</string>
+    <string name="ifl_d3_02">Okej</string>
     <!-- WELCOME_DIALOG -->
     <string name="ifl_d4_01">Dobrodošli</string>
-    <string name="ifl_d4_02">Welcome to Instafel, this mod has been developed to provide everyone with the latest features on Instagram alpha builds\\n\\nThe menu can be accessed by pressing and holding the hamburger button on the profile tab.</string>
+    <string name="ifl_d4_02">Dobrodošli u Instafel, ovaj mod je razvijen da svima pruži najnovije funkcije na alfa verzijama Instagrama.\\n\\nMeniju se može pristupiti pritiskom i držanjem dugmeta hamburger na kartici profila.</string>
+    <!-- HOME SHEETS -->
+    <string name="ifl_d5_01">Instafel Quick-menu</string>
+    <string name="ifl_d5_02">IFL Version v%1$s (Base: v%2$s)</string>
+    <string name="ifl_d5_03">Open Instafel Menu</string>
+    <string name="ifl_d5_04">Open IG Experiment Options</string>
+    <string name="ifl_d5_05">Join Instafel Community</string>
+    <string name="ifl_d5_06">Restart Instagram</string>
     <!-- CRASH TOAST -->
 </resources>
