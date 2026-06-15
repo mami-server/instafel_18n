@@ -2,7 +2,6 @@
   "navbar": {
     "items": {
       "backups": "備份",
-      "flags": "旗幟",
       "updater": "更新器",
       "src_code": "原始碼",
       "download": "下載",
@@ -25,7 +24,7 @@
     "9": "下載",
     "10": "原始碼",
     "11": "旗幟",
-    "12": "Contributors",
-    "13": "Translate"
+    "12": "貢獻者",
+    "13": "翻譯"
   }
 }

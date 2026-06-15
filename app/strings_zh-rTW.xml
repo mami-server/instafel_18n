@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ (c) 2026 Muhammed Ali Bulut, All rights reserved.
+  ~
+  ~ See LICENSE file in repository root for copy file of license. For copyright
+  ~ notices, technical issues, feedback, or any other related to this code file or
+  ~ project, please contact me via mamii@mamii.dev or other ways.
+  -->
 <resources>
     <!-- sa -->
     <string name="ifl_a5_10">權限遭拒</string>
@@ -110,6 +117,8 @@
     <string name="ifl_a5_dia_freq_05">每週</string>
     <!-- me.mamiiblt.instafel.ifl_a_language -->
     <string name="ifl_a6_01">使用裝置語言</string>
+    <string name="ifl_a6_02">Supported</string>
+    <string name="ifl_a6_03">Not Supported</string>
     <!-- me.mamiiblt.instafel.ifl_a_crashlog -->
     <string name="ifl_a7_01">報告</string>
     <string name="ifl_a7_02">刪除報告</string>
@@ -192,42 +201,49 @@
     <string name="ifl_a11_61">匯入舊 JSON 備份檔</string>
     <string name="ifl_a11_62">備份比較器</string>
     <string name="ifl_a11_63">用於完整匯入備份檔案，包含檔案中的所有旗幟</string>
-    <string name="ifl_a11_64">Adds flags to the backup file you use that are not in the backup you selected.</string>
-    <string name="ifl_a11_65">You can import old .json type backups with this option</string>
-    <string name="ifl_a11_66">Select Backup 1</string>
-    <string name="ifl_a11_67">Select Backup 2</string>
-    <string name="ifl_a11_68">Press to select backup</string>
-    <string name="ifl_a11_69">Compare Backups</string>
-    <string name="ifl_a11_70">Error while starting compression</string>
-    <string name="ifl_a11_71">Selected</string>
-    <string name="ifl_a11_72">Please select two backup file to compare</string>
-    <string name="ifl_a11_73">Comparison Result</string>
-    <string name="ifl_a11_74">Differences B1 to B2</string>
-    <string name="ifl_a11_75">Differences B2 to B1</string>
-    <string name="ifl_a11_76">Removed Flag IDs</string>
-    <string name="ifl_a11_77">Error while comparing backups</string>
+    <string name="ifl_a11_64">新增未在備份檔中的旗幟到正在使用的備份檔中。</string>
+    <string name="ifl_a11_65">你可以使用這個選項匯入舊 .json 類型的備份</string>
+    <string name="ifl_a11_66">選擇備份 1</string>
+    <string name="ifl_a11_67">選擇備份 2</string>
+    <string name="ifl_a11_68">請選擇備份</string>
+    <string name="ifl_a11_69">比對備份</string>
+    <string name="ifl_a11_70">開始壓縮時發生錯誤</string>
+    <string name="ifl_a11_71">已選擇</string>
+    <string name="ifl_a11_72">請選擇兩個備份檔進行比對</string>
+    <string name="ifl_a11_73">比對結果</string>
+    <string name="ifl_a11_74">B1 相對 B2 的差異</string>
+    <string name="ifl_a11_75">B2 相對 B1 的差異</string>
+    <string name="ifl_a11_76">移除旗幟編號</string>
+    <string name="ifl_a11_77">比對備份時發生錯誤</string>
     <!-- me.mamiiblt.instafel.ifl_a_admin_login -->
     <!-- OTA FOUND DIALOG -->
-    <string name="ifl_d1_01">New Update</string>
-    <string name="ifl_d1_02">Instafel will be upgraded to version v%1$d (Instagram v%2$s)</string>
-    <string name="ifl_d1_03">Cancel</string>
-    <string name="ifl_d1_04">Install</string>
-    <string name="ifl_d1_05">Hide</string>
-    <string name="ifl_d1_06">Connecting to update server</string>
+    <string name="ifl_d1_01">新更新</string>
+    <string name="ifl_d1_02">Instafel 將會更新至 v%1$d（Instagram v%2$s）</string>
+    <string name="ifl_d1_03">取消</string>
+    <string name="ifl_d1_04">安裝</string>
+    <string name="ifl_d1_05">隱藏</string>
+    <string name="ifl_d1_06">正在連線至更新伺服器</string>
     <!-- OTA UP-TO-DATE DIALOG -->
-    <string name="ifl_d2_02">Instafel is up-to-date.</string>
-    <string name="ifl_d2_01">Up-to-date</string>
-    <string name="ifl_d2_03">Okay</string>
+    <string name="ifl_d2_02">Instafel 已為最新版。</string>
+    <string name="ifl_d2_01">最新版</string>
+    <string name="ifl_d2_03">確認</string>
     <!-- AUTOUPDATE TEXTS -->
-    <string name="ifl_t1_01">An error occurred while opening the apk-installer.</string>
-    <string name="ifl_t1_03">Instafel update failed.</string>
+    <string name="ifl_t1_01">開啟 APK 安裝器時發生錯誤。</string>
+    <string name="ifl_t1_03">Imstafel 更新失敗。</string>
     <!-- GENERAL_FN CLASS -->
-    <string name="ifl_c1_01">A web browser was not found on your device</string>
+    <string name="ifl_c1_01">無法在裝置上找到網頁瀏覽器</string>
     <!--- DIALOG SET FREQ -->
-    <string name="ifl_d3_01">Set Frequency</string>
+    <string name="ifl_d3_01">設定頻率</string>
     <string name="ifl_d3_02">確定</string>
     <!-- WELCOME_DIALOG -->
     <string name="ifl_d4_01">歡迎</string>
     <string name="ifl_d4_02">歡迎來到 Instafel，此模組開發旨在提供所有人 Instagram Alpha 建構的最新的功能\\n\\n選單可以透過長按個人檔案頁面的漢堡選單開啟。</string>
+    <!-- HOME SHEETS -->
+    <string name="ifl_d5_01">Instafel Quick-menu</string>
+    <string name="ifl_d5_02">IFL Version v%1$s (Base: v%2$s)</string>
+    <string name="ifl_d5_03">Open Instafel Menu</string>
+    <string name="ifl_d5_04">Open IG Experiment Options</string>
+    <string name="ifl_d5_05">Join Instafel Community</string>
+    <string name="ifl_d5_06">Restart Instagram</string>
     <!-- CRASH TOAST -->
 </resources>
